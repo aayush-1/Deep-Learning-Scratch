@@ -1,0 +1,6 @@
+2
+50
+relu
+25
+relu
+SGD
