@@ -1,10 +1,10 @@
 README:
 
 Command to run:
- python hw2_ee17btech11003.py
+ python MLP_scratch_train.py
 
 command to run with provided input file("inp.txt")
- python hw2_ee17btech11003.py <inp.txt
+ python MLP_scratch_train.py <inp.txt
 
 
 
