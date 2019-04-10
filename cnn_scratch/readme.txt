@@ -1,10 +1,10 @@
 README:
 
 Command to run:
- python ee17btech11003.py
+ python cnn_scratch.py
 
 command to run with provided input file("inp.txt")
- python ee17btech11003.py <inp.txt	
+ python cnn_scratch.py <inp.txt	
 
 
 
